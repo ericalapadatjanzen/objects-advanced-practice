@@ -61,27 +61,4 @@ function calculateSales(companySalesData){
 
 console.log(result);
 
-// console.log(companySalesData)
 
-
-
-// function calculateTelusSales(number){
-//   var output = [];
-//   for(var i = 0; i < number.length; i++){
-//     // var sum = number[i];
-
-// var TelusBCSales =  companySalesData[0].sales[i];
-
-// return output
-// }
-
-// }
-
-// return output;
-// }
-
-// }
-
-
-// var results = calculateSalesTax(companySalesData,salesTaxRates)
-// }
